@@ -27,7 +27,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added requirements.txt for easy dependency installation
 - Generated .gitignore for version control
 - Added MIT License for open-source distribution
-- Created AI coding instructions for future development
 - Professional file naming (cli.py, gui.py)
 
 ### Bug Fixes
@@ -115,3 +114,4 @@ For issues, feature requests, or contributions, please visit the [GitHub reposit
 ---
 
 **Made with ❤️ by aa_humaaan (human)**
+
