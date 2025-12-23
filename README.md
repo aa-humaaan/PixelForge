@@ -141,8 +141,7 @@ success, failed = batch_convert_images(
 ├── cli.py                          # Command-line interface
 ├── README.md                       # This file
 ├── requirements.txt                # Python dependencies
-└── .github/
-    └── copilot-instructions.md     # AI development guidelines
+
 ```
 
 ---
@@ -236,7 +235,6 @@ This project is designed with extensibility in mind:
 **To add a new format:**
 1. Add format name to `formats` list in `gui.py`
 2. Ensure PIL/Pillow supports it
-3. Update `.github/copilot-instructions.md`
 
 **To add a new feature:**
 1. Implement in `cli.py` first (core logic)
@@ -269,4 +267,5 @@ Found a bug or have a suggestion? Feel free to create an issue or submit a pull 
 ## ⭐ If you find this useful, please give it a star!
 
 Made with passion for the open-source community. Happy converting! 🎨✨
+
 
